@@ -1,0 +1,29 @@
+//Swift introduction
+//Day 1
+//Cedric Xijing Zhang
+
+import UIKit
+
+//1.1 Variables
+var str1 = "Hello, playground"
+str1 = "Goodbye"
+str1
+
+print(str1)
+
+//1.2 Strings and integers
+var greeting = "Hello, playground"
+var age = 38
+var population = 8_000_000
+
+//1.3 Multi-line strings
+var str2 = """
+This goes
+over multiple
+lines
+"""
+var str3 = """
+This goes \
+over multiple \
+lines
+"""
